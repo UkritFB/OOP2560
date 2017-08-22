@@ -1,7 +1,10 @@
 ```c++
 #include <stdio.h>
-main( )
+int main ()
 {
-  printf("hello, UKRIT FONGSOMBOON\n");
+  char yourname[100];
+  printf("What is your name?\t");
+  scanf("%s",yourname);
+  printf("hello, %s\n", yourname);
 }
 ```
