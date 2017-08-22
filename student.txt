@@ -18,9 +18,9 @@
 
 editer By KOBORi
 
+-----
+``` C++
 
-```
-#C++
 #include<stdio.h>
 main()
 {
